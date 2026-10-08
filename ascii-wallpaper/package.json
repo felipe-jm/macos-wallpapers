@@ -1,0 +1,8 @@
+{
+  "name": "ascii-wallpaper",
+  "private": true,
+  "description": "ascii.rest scenes as animated macOS wallpapers",
+  "devDependencies": {
+    "esbuild": "0.28.2"
+  }
+}
